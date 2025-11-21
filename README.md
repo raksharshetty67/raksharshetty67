@@ -1,5 +1,5 @@
 # Hi, I'm Raksha Shetty
-**Data Analyst | SQL • Power BI • Excel • Python**
+**Data Analyst | SQL • Power BI • Excel • Python • Machine Learning**
 
 ### Connect with me
 <p align="center">
