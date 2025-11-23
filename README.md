@@ -64,19 +64,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=raksharshetty67&theme=flat&column=6&margin-w=10" />
 </p>
 
-## 🚀 Featured Projects
-
-### 1️⃣ Vendor Performance Analysis Project  
-Dashboard + SQL-driven insights evaluating supplier performance & procurement metrics.  
-🔗 **Repo:** https://github.com/raksharshetty67
-
-### 2️⃣ Banking Domain Project  
-Analytics covering customer segmentation, churn, spending patterns & dashboards.  
-🔗 **Repo:** https://github.com/raksharshetty67
-
-### 3️⃣ Ferns and Petals Sales Analysis  
-Sales analysis using Python, SQL & Power BI for trends and revenue insights.  
-🔗 **Repo:** https://github.com/raksharshetty67
 
 ## 📫 Connect With Me  
 
