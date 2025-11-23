@@ -1,41 +1,122 @@
-# Hi, I'm Raksha Shetty
-**Data Analyst | SQL • Power BI • Excel • Python • Machine Learning**
-
-### Connect with me
+<!-- Typing SVG Banner -->
 <p align="center">
-  <a href="https://linkedin.com/in/raksharshetty67"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black&color=000000&labelColor=ffffff"/></a>
-  <a href="mailto:raksharshetty67@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black&color=000000&labelColor=ffffff"/></a>
-  <a href="https://github.com/raksharshetty67"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&color=000000&labelColor=ffffff"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Raksha+Shetty&center=true&size=25&color=00C4FF" />
 </p>
 
-## Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Power_BI-ffffff?style=for-the-badge&logo=powerbi&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Excel-ffffff?style=for-the-badge&logo=microsoft-excel&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=black&color=000000&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-ffffff?style=for-the-badge&logo=scikitlearn&logoColor=black&color=000000&labelColor=ffffff"/>
-</p>
+------
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raksharshetty67&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" height="165"/>
-</p>
+## 👩‍💻 About Me  
+- 🔍 **Data Analyst | Business Analyst | BI Developer**  
+- 💼 **4+ years of experience** working with data  
+- 📊 Skilled in **SQL, MySQL, Python (Pandas, NumPy), Power BI, DAX, ETL, Data Modeling, Power Query, Excel**  
+- 🚀 Passionate about turning raw data into actionable insights  
+- 📈 Love working on analytics projects that drive real business impact  
+
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raksharshetty67&show_icons=true&theme=buefy&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raksharshetty67&theme=buefy&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" height="180"/>
+
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-2F4F4F?style=for-the-badge&logo=database&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Python Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=plotly&logoColor=white" />
+
+  <!-- ML & Statistics -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge&logo=google&logoColor=white" />
+
+  <!-- BI Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <!-- Dev Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</p>
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raksharshetty67&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksharshetty67&layout=compact&theme=default" />
+</p>
+
+
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raksharshetty67&theme=flat&column=6&margin-w=10" />
+</p>
+
+## 🚀 Featured Projects
+
+### 1️⃣ Vendor Performance Analysis Project  
+Dashboard + SQL-driven insights evaluating supplier performance & procurement metrics.  
+🔗 **Repo:** https://github.com/raksharshetty67
+
+### 2️⃣ Banking Domain Project  
+Analytics covering customer segmentation, churn, spending patterns & dashboards.  
+🔗 **Repo:** https://github.com/raksharshetty67
+
+### 3️⃣ Ferns and Petals Sales Analysis  
+Sales analysis using Python, SQL & Power BI for trends and revenue insights.  
+🔗 **Repo:** https://github.com/raksharshetty67
+
+## 📫 Connect With Me  
+
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/raksharshetty67" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/raksharshetty64" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <!-- Linktree -->
+  <a href="https://linktr.ee/raksharshetty64" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+
+  <!-- Topmate -->
+  <a href="https://topmate.io/raksharshetty_67" target="_blank">
+    <img src="https://img.shields.io/badge/Topmate-7F56DA?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/raksharshetty67" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:raksharshetty67@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raksharshetty67&color=000000&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=raksharshetty67&label=Profile+Views&color=blue&style=flat" />
 </p>
 
-<div align="center">
-  <br>
-  <strong>"In God we trust, all others must bring data."</strong><br>
-  — W. Edwards Deming
-</div>
+
+<p align="center">✨ Thank you for visiting my profile! Always open to collaborations & opportunities.</p>
