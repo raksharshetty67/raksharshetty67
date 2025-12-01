@@ -48,14 +48,6 @@
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raksharshetty67&show_icons=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raksharshetty67&layout=compact&theme=default" />
-</p>
-
-
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raksharshetty67&theme=flat&column=6&margin-w=10" />
