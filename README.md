@@ -48,12 +48,6 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raksharshetty67&theme=flat&column=6&margin-w=10" />
-</p>
-
-
 ## 📫 Connect With Me  
 
 <p align="center">
