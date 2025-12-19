@@ -7,7 +7,7 @@
 
 ## 👩‍💻 About Me  
 - 🔍 **Data Analyst | Business Analyst | BI Developer**  
-- 💼 **4+ years of experience** working with data  
+- 💼 **2+ years of Hands-on experience** working with data  
 - 📊 Skilled in **SQL, MySQL, Python (Pandas, NumPy), Power BI, DAX, ETL, Data Modeling, Power Query, Excel**  
 - 🚀 Passionate about turning raw data into actionable insights  
 - 📈 Love working on analytics projects that drive real business impact  
