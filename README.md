@@ -3,14 +3,22 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Raksha+Shetty&center=true&size=25&color=00C4FF" />
 </p>
 
-------
+## **About Me**
+**Data Analyst | Business Analyst | BI Developer**  </br>
+**2+ years of Hands-on experience** working with data  </br>
 
-## 👩‍💻 About Me  
-- 🔍 **Data Analyst | Business Analyst | BI Developer**  
-- 💼 **2+ years of Hands-on experience** working with data  
-- 📊 Skilled in **SQL, MySQL, Python (Pandas, NumPy), Power BI, DAX, ETL, Data Modeling, Power Query, Excel**  
-- 🚀 Passionate about turning raw data into actionable insights  
-- 📈 Love working on analytics projects that drive real business impact  
+- **Skilled in:**  
+  - **SQL, MySQL** (Data Retrieval, Filtering, Aggregations & KPI Calculations, Joins, Subqueries, CASE Statements, Window Functions, CTEs, Date Functions, NULL Handling, Views)  
+  - **Python** (Pandas, NumPy, Matplotlib, Seaborn – Data Cleaning, EDA, Analysis)  
+  - **Power BI** (Power Query for Data Cleaning, Data Modeling, Relationships, Data Visualization, DAX, Power BI Service)  
+  - **Advanced Excel** (Functions, Pivot Tables, Lookup Functions – Vlookup, Hlookup, Xlookup, INDEX–MATCH, Conditional Formatting, Data Validation)
+  - **Statistics for Data Analysis** (Descriptive & Inferential Statistics, Probability Basics, Distributions, Hypothesis Testing, Correlation Analysis)  
+  - **Machine Learning (Foundational)** (Feature Engineering, Supervised vs Unsupervised Learning, Linear Regression, Classification, Clustering Concepts)
+  - **Microsoft Azure (Analytics Focused)** Azure Storage, Azure Synapse Analytics
+  
+- **Passionate about turning raw data into actionable insights**  
+- **Love working on analytics projects that drive real business impact**
+
 
 
 ## 🛠️ Tech Stack & Tools
