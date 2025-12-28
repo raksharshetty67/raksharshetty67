@@ -19,8 +19,6 @@
 - **Passionate about turning raw data into actionable insights**  
 - **Love working on analytics projects that drive real business impact**
 
-
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -54,6 +52,16 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
+
+## **Top Repositories**
+- **Vendor Performance Analysis Project:** https://github.com/raksharshetty67/Vendor_Performance_Analysis_Project
+- **Banking domain Project:** https://github.com/raksharshetty67/Banking_Domain_Project
+- **Ferns and Petals Sales Analysis Project:** https://github.com/raksharshetty67/Ferns_and_Petals_Sales_Analysis
+- **Python Basics Notes:** https://github.com/raksharshetty67/Python_Basics_Notes
+- **Python numpy Notes:** https://github.com/raksharshetty67/Python-Numpy-Notes
+- **Python Pandas Notes:** https://github.com/raksharshetty67/Python-Pandas-Notes
+- **Python Matplotlib Notes:** https://github.com/raksharshetty67/Python-Matplotlib-Notes
+- **Python Pandas Case-Studies:** https://github.com/raksharshetty67/Python_Case_Studies
 
 
 ## 📫 Connect With Me  
