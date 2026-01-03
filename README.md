@@ -14,7 +14,6 @@
   - **Advanced Excel** (Functions, Pivot Tables, Lookup Functions – Vlookup, Hlookup, Xlookup, INDEX–MATCH, Conditional Formatting, Data Validation)
   - **Statistics for Data Analysis** (Descriptive & Inferential Statistics, Probability Basics, Distributions, Hypothesis Testing, Correlation Analysis)  
   - **Machine Learning (Foundational)** (Feature Engineering, Supervised vs Unsupervised Learning, Linear Regression, Classification, Clustering Concepts)
-  - **Microsoft Azure (Analytics Focused)** Azure Storage, Azure Synapse Analytics
   
 - **Passionate about turning raw data into actionable insights**  
 - **Love working on analytics projects that drive real business impact**
