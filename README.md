@@ -15,7 +15,7 @@
   - **Statistics for Data Analysis** (Descriptive & Inferential Statistics, Probability Basics, Distributions, Hypothesis Testing, Correlation Analysis)  
   - **Machine Learning (Foundational)** (Feature Engineering, Supervised vs Unsupervised Learning, Linear Regression, Classification, Clustering Concepts)
   
-- **Passionate about turning raw data into actionable insights**  
+- **Passionate about turning raw data into actionable insights**
 - **Love working on analytics projects that drive real business impact**
 
 ## 🛠️ Tech Stack & Tools
